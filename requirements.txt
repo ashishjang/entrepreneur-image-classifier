@@ -118,9 +118,6 @@ MarkupSafe==2.0.1
 matplotlib==3.3.2
 matplotlib-inline==0.1.2
 mistune==0.8.4
-mkl-fft
-mkl-random
-mkl-service
 mock==4.0.3
 module==0.0.4
 more-itertools==8.8.0
