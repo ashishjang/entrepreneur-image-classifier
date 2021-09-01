@@ -40,7 +40,6 @@ comtypes==1.1.10
 conda
 conda-build
 conda-pack
-conda-package-handling
 conda-verify
 contextlib2==0.6.0.post1
 cryptography==3.4.7
