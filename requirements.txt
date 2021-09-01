@@ -1,7 +1,6 @@
 absl-py==0.12.0
 alabaster==0.7.12
 anaconda-client
-anaconda-project
 anyio==2.2.0
 argh==0.26.2
 argon2-cffi==20.1.0
